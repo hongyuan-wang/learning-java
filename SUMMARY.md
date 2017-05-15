@@ -2,8 +2,8 @@
 
 * [面向对象编程概念](README.md)
 * [语言基础](chapter1.md)
-* 类与对象
-* 注解
+* [类与对象](lei-yu-dui-xiang.md)
+* [注解](zhu-jie.md)
 * [接口与继承](jie-kou-yu-ji-cheng.md)
 * [数字与字符串](shu-zi-yu-zi-fu-chuan.md)
 * [泛型](fan-xing.md)
