@@ -14,21 +14,21 @@
   * [泛型方法](fan-xing/fan-xing-fang-fa.md)
   * [受限的类型参数](fan-xing/shou-xian-de-lei-xing-can-shu.md)
     * 泛型方法和受限的类型参数
-  * 泛型、继承和子类型
-  * 类型推导
+  * [泛型、继承和子类型](fan-xing/fan-xing-3001-ji-cheng-he-zi-lei-xing.md)
+  * [类型推导](fan-xing/lei-xing-tui-dao.md)
   * [通配符](fan-xing/tong-pei-fu.md)
     * 大写受限通配符
     * 不受限通配符
     * 小写受限通配符
+    * [通配符捕捉和帮助方法](fan-xing/tong-pei-fu/tong-pei-fu-bu-zhuo-he-bang-zhu-fang-fa.md)
     * 通配符和子类型
-    * 通配符捕捉和帮助方法
     * 通配符使用指南
   * [类型擦除](fan-xing/lei-xing-ca-chu.md)
-    * 泛型类型擦除
-    * 泛型方法擦除
-    * 类型擦除和桥接方法的作用
-    * 不可具体化的类型
-  * 泛型中的限制
-  * [问题和练习：Generics](fan-xing/wen-ti-he-lian-xi-ff1a-generics.md)
+    * [泛型类型擦除](fan-xing/lei-xing-ca-chu/fan-xing-lei-xing-ca-chu.md)
+    * [泛型方法擦除](fan-xing/lei-xing-ca-chu/fan-xing-fang-fa-ca-chu.md)
+    * [类型擦除和桥接方法的作用](fan-xing/lei-xing-ca-chu/lei-xing-ca-chu-he-qiao-jie-fang-fa-de-zuo-yong.md)
+    * [不可具体化的类型](fan-xing/lei-xing-ca-chu/bu-ke-ju-ti-hua-de-lei-xing.md)
+  * [泛型中的限制](fan-xing/fan-xing-zhong-de-xian-zhi.md)
+  * [问题和练习：泛型](fan-xing/wen-ti-he-lian-xi-ff1a-generics.md)
 * 包
 
