@@ -1,6 +1,6 @@
 # Summary
 
-* [概述](introduction.md)
+* [概述](README.md)
 * [面向对象编程概念](object-oriented-programming-concepts.md)
 * [语言基础](language-basics.md)
 * [类与对象](classes-and-objects.md)
@@ -13,22 +13,22 @@
     * [原生类型](generics/generic-types/raw-types.md)
   * [泛型方法](generics/generic-methods.md)
   * [受限的类型参数](generics/bounded-type-parameters.md)
-    * 泛型方法和受限的类型参数
+    * [泛型方法和受限的类型参数](generics/bounded-type-parameters/fan-xing-fang-fa-he-shou-xian-de-lei-xing-can-shu.md)
   * [泛型、继承和子类型](generics/generics-inheritance-and-subtypes.md)
   * [类型推导](generics/type-inference.md)
   * [通配符](generics/wildcards.md)
-    * 大写受限通配符
-    * 不受限通配符
-    * 小写受限通配符
-    * 通配符捕捉和帮助方法
-    * 通配符和子类型
-    * 通配符使用指南
+    * [大写受限通配符](generics/wildcards/da-xie-shou-xian-tong-pei-fu.md)
+    * [不受限通配符](generics/wildcards/bu-shou-xian-tong-pei-fu.md)
+    * [小写受限通配符](generics/wildcards/xiao-xie-shou-xian-tong-pei-fu.md)
+    * [通配符捕捉和帮助方法](generics/wildcards/tong-pei-fu-bu-zhuo-he-bang-zhu-fang-fa.md)
+    * [通配符和子类型](generics/wildcards/tong-pei-fu-he-zi-lei-xing.md)
+    * [通配符使用指南](generics/wildcards/tong-pei-fu-shi-yong-zhi-nan.md)
   * [类型擦除](generics/type-erasure.md)
-    * 泛型类型擦除
-    * 泛型方法擦除
-    * 类型擦除和桥接方法的作用
-    * 不可具体化的类型
+    * [泛型类型擦除](generics/type-erasure/fan-xing-lei-xing-ca-chu.md)
+    * [泛型方法擦除](generics/type-erasure/fan-xing-fang-fa-ca-chu.md)
+    * [类型擦除和桥接方法的作用](generics/type-erasure/lei-xing-ca-chu-he-qiao-jie-fang-fa-de-zuo-yong.md)
+    * [不可具体化的类型](generics/type-erasure/bu-ke-ju-ti-hua-de-lei-xing.md)
   * [泛型中的限制](generics/restrictions-on-generics.md)
   * [问题和练习：泛型](generics/questions-and-exercises-generics.md)
-* 包
+* [包](bao.md)
 
