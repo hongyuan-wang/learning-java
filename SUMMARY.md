@@ -7,7 +7,7 @@
 * [注解](annotations.md)
 * [接口与继承](interfaces-and-inheritance.md)
 * [数字与字符串](number-strings.md)
-* [泛型](generics.md)
+* [泛型（已更新）](generics.md)
   * [为什么使用泛型](generics/why-use-generics.md)
   * [泛型类型](generics/generic-types.md)
     * [原生类型](generics/generic-types/raw-types.md)
